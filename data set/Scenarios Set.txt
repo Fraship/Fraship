@@ -1,0 +1,1047 @@
+1.	what is the status of the air conditioner ?
+2.	is the air conditioner on ?
+3.	is the air conditioner off ?
+4.	what is the status of the smart light ?
+5.	is the smart light on ?
+6.	is the lamp working ?
+7.	what is the status of the pm2.5 monitor ?
+8.	is the pm2.5 detector on ?
+9.	what is the status of the air cleaner ?
+10.	is the air cleaner on ?
+11.	is the air cleaner off ?
+12.	what is the status of the air conditioner ?
+13.	is the air conditioner on ?
+14.	is the air conditioner off ?
+15.	what is the status of the light ?
+16.	is the light on ?
+17.	is the light off ?
+18.	what is the status of the flower monitor ?
+19.	is the flower monitor on ?
+20.	is the flower monitor off ?
+21.	what is the status of the water pump ?
+22.	is the water pump on ?
+23.	is the water pump off ?
+24.	what is the status of the smart fan ?
+25.	is the smart fan on ?
+26.	is the smart fan off ?
+27.	how many degrees centigrade of the air conditioner ?
+28.	what is the brightness of the smart light ?
+29.	what is the pm2.5 of the pm2.5 detector ?
+30.	what is the pm2.5 of the air cleaner ?
+31.	what is the temperature of the air conditioner ?
+32.	what is the brightness of the smart light ?
+33.	what is the humidity of the flower monitor ?
+34.	what is the humidity of the water pump ?
+35.	what is the temperature of the smart fan ?
+36.	how many degrees centigrade in the sitting room ?
+37.	what is the brightness in the sitting room ?
+38.	what is the air quality in the sitting room ?
+39.	is water pump on ?
+40.	is water pump off ?
+41.	what is status of the smart fan ?
+42.	is smart fan on?
+43.	is smart fan off ?
+44.	what is temperature of the air conditioner ?
+45.	what is brightness of the light ?
+46.	what is pm2.5 of the pm2.5 detector ?
+47.	what is air quality of the air purifier ?
+48.	what is temperature of the air conditioner ?
+49.	what is brightness of the light ?
+50.	what is humidity of the flower monitor ?
+51.	what is humidity of the water pump ?
+52.	what is temperature of the smart fan ?
+53.	what is temperature in the sitting room ?
+54.	what is brightness in the sitting room ?
+55.	what is air quality in the sitting room ?
+56.	what is temperature in the bedroom ?
+57.	what is brightness in the bedroom ?
+58.	what is air quality in the bedroom ?
+59.	what is humidity in the balcony ?
+60.	what is the temperature in the bedroom ?
+61.	what is status of the air conditioner ?
+62.	is air conditioning on?
+63.	is air conditioning off ?
+64.	what is status of the smart light ?
+65.	is smart light on ?
+66.	is smart light off ?
+67.	what is status of the pm2.5 monitor ?
+68.	is pm2.5 monitor on ?
+69.	is pm2.5 monitor off ?
+70.	what is status of the air cleaner ?
+71.	is air cleaner on ?
+72.	is air cleaner off ?
+73.	what is status of the air conditioner ?
+74.	is air conditioner on ?
+75.	is air conditioner off ?
+76.	what is status of the smart light ?
+77.	is smart light working?
+78.	is smart light off ?
+79.	what is status of the flower monitor ?
+80.	is flower monitor on ?
+81.	is flower monitor off ?
+82.	what is status of the water pump ?
+83.	is water pump on ?
+84.	is water pump off ?
+85.	what is status of the smart fan ?
+86.	is smart fan on?
+87.	is smart fan off ?
+88.	what is temperature of the air conditioner ?
+89.	what is brightness of the light ?
+90.	what is pm2.5 of the pm2.5 detector ?
+91.	what is air quality of the air purifier ?
+92.	what is temperature of the air conditioner ?
+93.	what is brightness of the light ?
+94.	what is humidity of the flower monitor ?
+95.	what is humidity of the water pump ?
+96.	what is temperature of the smart fan ?
+97.	what is temperature in the sitting room ?
+98.	what is brightness in the sitting room ?
+99.	what is air quality in the sitting room ?
+100.	what is temperature in the bedroom ?
+101.	what is brightness in the bedroom ?
+102.	what is air quality in the bedroom ?
+103.	what is humidity in the balcony ?
+104.	what is brightness in the balcony ?
+105.	what is the status of air conditioner ?
+106.	what is the status of smart light ?
+107.	what is the status of pm2.5 monitor ?
+108.	what is the status of air cleaner ?
+109.	what is the status of air conditioner ?
+110.	what is the status of smart light ?
+111.	what is the status of flower monitor ?
+112.	what is the status of water pump ?
+113.	what is the status of smart fan ?
+114.	what is the temperature of air conditioner ?
+115.	what is the brightness of smart light ?
+116.	what is the pm2.5 of pm2.5 detector ?
+117.	what is the pm2.5 of air monitor?
+118.	what is the temperature of air conditioner ?
+119.	what is the brightness of smart light ?
+120.	what is the humidity of flower monitor ?
+121.	what is the humidity of water pump ?
+122.	what is the temperature of smart fan ?
+123.	what is the temperature in living room ?
+124.	what is the brightness in living room ?
+125.	what is the pm2.5 in living room ?
+126.	what is the temperature in bedroom ?
+127.	what is the brightness in bedroom ?
+128.	what is the pm2.5 in bedroom ?
+129.	what is the humidity in balcony ?
+130.	what is the brightness in balcony ?
+131.	what is status of air conditioner ?
+132.	what is status of smart light ?
+133.	what is status of pm2.5 detector ?
+134.	what is status of air cleaner ?
+135.	what is status of air conditioner ?
+136.	what is status of smart light ?
+137.	what is status of flower monitor ?
+138.	what is status of water pump ?
+139.	what is status of smart fan ?
+140.	what is temperature of air conditioner ?
+141.	what is brightness of smart light ?
+142.	what is pm2.5 of pm2.5 detector ?
+143.	what is pm2.5 of air cleaner ?
+144.	what is temperature of air conditioner ?
+145.	what is brightness of smart light ?
+146.	what is wetness of flower monitor ?
+147.	what is wetness of water pump ?
+148.	what is temperature of smart fan ?
+149.	what is temperature in sitting room ?
+150.	what is brightness in sitting room ?
+151.	what is pm2.5 in sitting room ?
+152.	what is temperature in bedroom ?
+153.	what is brightness in bedroom ?
+154.	what is pm2.5 in bedroom ?
+155.	what is wetness in balcony ?
+156.	what is pm2.5 of the pm2.5 detector ?
+157.	what is air quality of the air purifier ?
+158.	what is temperature of the air conditioner ?
+159.	what is brightness of the light ?
+160.	what is humidity of the flower monitor ?
+161.	what is humidity of the water pump ?
+162.	what is temperature of the smart fan ?
+163.	what is temperature in the sitting room ?
+164.	what is brightness in the sitting room ?
+165.	what is air quality in the sitting room ?
+166.	what is temperature in the bedroom ?
+167.	what is brightness in the bedroom ?
+168.	what is air quality in the bedroom ?
+169.	what is humidity in the balcony ?
+170.	what is brightness in the balcony ?
+171.	what is brightness in balcony ?
+172.	what is the temperature of the sitting room ?
+173.	what is the brightness of the sitting room ?
+174.	what is temperature of the smart fan ?
+175.	what is the air quality of the sitting room ?
+176.	how many degrees centigrade of the bedroom ?
+177.	what is the brightness of the bedroom ?
+178.	what is the air quality of the bedroom ?
+179.	what is the humidity of the balcony ?
+180.	what is the brightness of the balcony ?
+181.	what is temperature of the sitting room ?
+182.	what is brightness of the sitting room ?
+183.	what is air quality of the sitting room ?
+184.	what is temperature of the bedroom ?
+185.	what is brightness of the bedroom ?
+186.	what is air quality of the bedroom ?
+187.	what is humidity of the balcony ?
+188.	what is brightness of the balcony ?
+189.	how many degrees centigrade of sitting room ?
+190.	what is the brightness of sitting room ?
+191.	what is the air quality of sitting room ?
+192.	how many degrees centigrade of bedroom ?
+193.	what is the brightness of bedroom ?
+194.	what is the air quality of bedroom ?
+195.	what is the humidity of balcony ?
+196.	what is the brightness of balcony ?
+197.	what is temperature of sitting room ?
+198.	what is sitting room brightness?
+199.	what is air quality of sitting room?
+200.	what is bedroom temperature ?
+201.	what is bedroom brightness?
+202.	what is air quality of the bedroom?
+203.	what is balcony humidity?
+204.	what is brightness of balcony?
+205.	what is the temperature of the air conditioner in the sitting room ?
+206.	what is the luminance of the smart light in the sitting room ?
+207.	what is the pm2.5 of the pm2.5 monitor in the sitting room ?
+208.	what is the pm2.5 of the air cleaner in the sitting room ?
+209.	what is the temperature of the air conditioner in the bedroom ?
+210.	what is the luminance of the smart light in the bedroom ?
+211.	what is the humidity of the flower monitor in the sitting room ?
+212.	what is the humidity of the water pump in the balcony ?
+213.	what is the temperature of the smart fan in the sitting room  ?
+214.	what is temperature of the air conditioner in the sitting room ?
+215.	what is luminance of the smart light in the sitting room ?
+216.	what is pm2.5 of the air cleaner in the sitting room ?
+217.	what is temperature of the air conditioner in the bedroom ?
+218.	what is luminance of the smart light in the bedroom ?
+219.	what is humidity of the environment monitoring instrument in the sitting room ?
+220.	what is humidity of the water pump in the balcony ?
+221.	what is temperature of the smart fan in the sitting room ?
+222.	what is the status of air conditioner in the sitting room ?
+223.	what is the status of smart light in the sitting room ?
+224.	what is the status of pm2.5 detector in the sitting room ?
+225.	what is the status of air cleaner in the sitting room ?
+226.	what is the status of air conditioner in the bedroom ?
+227.	what is the status of smart light in the bedroom ?
+228.	what is the status of flower monitor in the sitting room ?
+229.	what is the status of flower monitor in the balcony ?
+230.	what is the status of smart fan in the sitting room ?
+231.	what is the temperature of air conditioner in the sitting room ?
+232.	what is the luminance of smart light in the sitting room ?
+233.	what is the pm2.5 of pm2.5 detector in the sitting room ?
+234.	what is the pm2.5 of air cleaner in the sitting room ?
+235.	what is the temperature of air conditioner in the bedroom ?
+236.	what is the luminance of smart light in the bedroom ?
+237.	what is the humidity of flower monitor in the sitting room ?
+238.	what is the humidity of water pump in the balcony ?
+239.	what is the temperature of smart fan in the sitting room ?
+240.	what is status of air conditioning in the sitting room ?
+241.	what is status of smart light in the sitting room ?
+242.	what is state of air cleaner in the sitting room ?
+243.	what is status of air conditioner in the bedroom ?
+244.	what is status of smart light in the bedroom ?
+245.	what is status of environment monitoring instrument in the sitting room ?
+246.	what is status of water pump in the balcony ?
+247.	what is status of smart fan in the sitting room  ?
+248.	what is temperature of air conditioner in the sitting room ?
+249.	what is luminance of smart light in the sitting room ?
+250.	what is pm2.5 of pm2.5 detector in the sitting room ?
+251.	what is pm2.5 of air cleaner in the sitting room ?
+252.	what is temperature of air conditioner in the bedroom ?
+253.	what is luminance of smart light in the sitting room ?
+254.	what is humidity of flower monitor in the sitting room ?
+255.	what is humidity of water pump in the balcony ?
+256.	what is temperature of smart fan in the sitting room ?
+257.	what is pm2.5 of the pm2.5 monitor in the sitting room ?
+258.	what is pm2.5 of the air cleaner in the sitting room ?
+259.	what is temperature of the air conditioner in the bedroom ?
+260.	what is brightness of the smart light in the bedroom ?
+261.	what is humidity of the environment monitoring instrument in the sitting room ?
+262.	what is pm2.5 of the air cleaner in the sitting room ?
+263.	what is temperature of the air conditioner in the bedroom ?
+264.	what is brightness of the smart light in the bedroom ?
+265.	what is humidity of the environment monitoring instrument in the sitting room ?
+266.	what is humidity of the water pump in the balcony ?
+267.	what is temperature of the smart fan in the sitting room  ?
+268.	what is status of air conditioner in the sitting room ?
+269.	what is status of smart light in the sitting room ?
+270.	what is status of pm2.5 detector in the sitting room ?
+271.	what is status of air cleaner in the sitting room ?
+272.	what is status of air conditioner in the bedroom ?
+273.	what is status of smart light in the bedroom ?
+274.	what is status of environment monitoring instrument in the sitting room ?
+275.	what is brightness of smart light in the sitting room ?
+276.	what is pm2.5 of pm2.5 detector in the sitting room ?
+277.	what is pm2.5 of air cleaner in the sitting room ?
+278.	what is temperature of air conditioner in the bedroom ?
+279.	what is brightness of smart light in the bedroom ?
+280.	what is humidity of environment monitoring instrument in the sitting room ?
+281.	what is humidity of water pump in the balcony ?
+282.	what is temperature of smart fan in the sitting room ?
+283.	what is status of air conditioner in the sitting room ?
+284.	what is status of smart light in the sitting room ?
+285.	what is status of pm2.5 monitor in the sitting room ?
+286.	what is status of air cleaner in the sitting room ?
+287.	what is status of air conditioner in the bedroom ?
+288.	what is brightness of smart light in the sitting room ?
+289.	what is pm2.5 of pm2.5 detector in the sitting room ?
+290.	what is air quality in the sitting room ?
+291.	what is temperature of air conditioner in the bedroom ?
+292.	what is brightness of smart light in the sitting room ?
+293.	what is humidity of flower monitor in the sitting room ?
+294.	what is humidity of water pump in the balcony ?
+295.	what is temperature of smart fan in the sitting room ?
+296.	if the temperature in the sitting room is below 20, turn on the air conditioner in the sitting room.
+297.	if the temperature in the sitting room is less than 20, turn on the air conditioner in the sitting room.
+298.	if the temperature in the sitting room is lower than 20, turn on the air conditioner in the sitting room.
+299.	if the temperature in the sitting room is above 20, turn on the air conditioner in the sitting room.
+300.	if the temperature in the sitting room is higher than 20, turn up the temperature of sitting room .
+301.	if the temperature in the sitting room is more than 20, turn up the temperature of sitting room .
+302.	if the temperature in the sitting room is between 20 and 24, turn up the temperature of sitting room .
+303.	if the sitting room is cool, turn off the air conditioner in the sitting room .
+304.	if the temperature in the sitting room is less than 20, turn off the air conditioner in the sitting room .
+305.	if the temperature in the sitting room is lower than 20, turn off the air conditioner in the sitting room .
+306.	if the sitting room is cool, turn off the air conditioner in the sitting room .
+307.	if the temperature in the sitting room is higher than 20, turn off the air conditioner in the sitting room .
+308.	if the temperature in the sitting room is more than 20, turn off the air conditioner in the sitting room .
+309.	if the temperature in the sitting room is between 20 and 24, turn off the air conditioner in the sitting room .
+310.	if the temperature in the sitting room is below 20, open the air conditioner in the sitting room .
+311.	if the temperature in the sitting room is less than 20, open the air conditioner in the sitting room .
+312.	if the temperature in the sitting room is lower than 20, open the air conditioner in the sitting room .
+313.	if the temperature in the sitting room is above 20, open the air conditioner in the sitting room .
+314.	if the sitting room is cool,  open the air conditioner in the sitting room .
+315.	if the temperature in the sitting room is more than 20, open the air conditioner in the sitting room .
+316.	if the temperature in the sitting room is between 20 and 24 , open the air conditioner in the sitting room .
+317.	if the temperature in the sitting room is below 20 ,set the temperature of the air conditioner in the sitting room to 22 .
+318.	if the temperature in the sitting room is less than 20 ,set the temperature of the air conditioner in the sitting room to 22 .
+319.	if the temperature in the sitting room is lower than 20 ,set the temperature of the air conditioner in the sitting room to 22 .
+320.	if the temperature in the sitting room is above 20 ,set the temperature of the air conditioner in the sitting room to 22 .
+321.	if the temperature in the sitting room is higher than 20 ,set the temperature of the air conditioner in the sitting room to 22 .
+322.	if the temperature in the sitting room is more than 20 ,set the temperature of the air conditioner in the sitting room to 22 .
+323.	if the temperature in the sitting room is between 20  and 24, set the temperature of the air conditioner in the sitting room to 22 .
+324.	if the temperature in the living room is below 20, turn on the air conditioner in the living room.
+325.	if the temperature in the living room is less than 20, turn on the air conditioner in the living room.
+326.	if the temperature in the living room is lower than 20, turn on the air conditioner in the living room.
+327.	if the temperature in the living room is above 20, turn on the air conditioner in the living room.
+328.	if the temperature in the living room is below 20, turn off the air conditioner in the living room .
+329.	if the temperature in the living room is less than 20, turn up the temperature in the living room .
+330.	if the temperature in the living room is lower than 20, turn off the air conditioner in the living room .
+331.	if the temperature in the living room is above 20, turn off the air conditioner in the living room .
+332.	if the temperature in the living room is higher than 20, turn off the air conditioner in the living room .
+333.	if the temperature in the living room is more than 20, turn off the air conditioner in the living room .
+334.	if the temperature in the living room is between 20 and 24, turn up the temperature in the living room .
+335.	if the temperature in the living room is below 20, open the air conditioner in the living room .
+336.	if the temperature in the living room is less than 20, open the air conditioner in the living room .
+337.	if the temperature in the living room is lower than 20, open the air conditioner in the living room .
+338.	if the temperature in the living room is above 20, open the air conditioner in the living room .
+339.	if the temperature in the living room is higher than 20, open the air conditioner in the living room .
+340.	if the temperature in the living room is more than 20, open the air conditioner in the living room .
+341.	if the temperature in the living room is between 20 and 24 , open the air conditioner in the living room .
+342.	if the temperature in the living room is below 20 ,set the temperature of the air conditioner in the living room to 22 .
+343.	if the temperature in the living room is less than 20 ,set the temperature of the air conditioner in the living room to 22 .
+344.	if the temperature in the living room is lower than 20 ,set the temperature of the air conditioner in the living room to 22 .
+345.	if the temperature in the living room is above 20 ,set the temperature of the air conditioner in the living room to 22 .
+346.	if the temperature in the living room is higher than 20  , turn up the temperature of sitting room .
+347.	if the temperature in the living room is more than 20  , turn up the temperature of sitting room .
+348.	if the temperature in the living room is between 20  and 24, turn up the temperature of sitting room .
+349.	if the brightness in the sitting room is below 25, turn off smart light in the sitting room .
+350.	if the brightness in the sitting room is less than 25, turn down smart light in the sitting room .
+351.	if the brightness in the sitting room is lower than 25, turn down smart light in the sitting room .
+352.	if the brightness in the sitting room is above 25, turn off smart light in the sitting room .
+353.	if the brightness in the sitting room is higher than 25, turn up the brightness of sitting room .
+354.	if the brightness in the sitting room is more than 25, turn up the brightness of sitting room .
+355.	if the brightness in the sitting room is between 25 and 30, open smart light in the sitting room .
+356.	if the luminance in the sitting room is below 25, turn off smart light in the sitting room .
+357.	if the luminance in the sitting room is less than 25, turn off smart light in the sitting room .
+358.	if the luminance in the sitting room is lower than 25, turn off smart light in the sitting room .
+359.	if the luminance in the sitting room is above 25, turn off smart light in the sitting room .
+360.	if the luminance in the sitting room is higher than 25, turn up the brightness of sitting room .
+361.	if the luminance in the sitting room is more than 25, turn up the brightness of sitting room .
+362.	if the luminance in the sitting room is between 25 and 30, open smart light in the sitting room .
+363.	if the brightness in the living room is below 25, turn off smart light in the sitting room .
+364.	if the brightness in the living room is less than 25, turn off smart light in the sitting room .
+365.	if the brightness in the living room is lower than 25, turn off smart light in the sitting room .
+366.	if the living room is well lighted, turn off smart light in the sitting room .
+367.	if the brightness in the living room is higher than 25, turn off smart light in the sitting room .
+368.	if the brightness in the living room is more than 25, turn off smart light in the sitting room .
+369.	if the living room is well lighted, open smart light in the sitting room .
+370.	if the luminance in the living room is below 25, turn off smart light in the sitting room .
+371.	if the luminance in the living room is less than 25, turn off smart light in the sitting room .
+372.	if the luminance in the living room is lower than 25, turn up the brightness of sitting room .
+373.	if the luminance in the living room is above 25, turn up the brightness of sitting room .
+374.	if the luminance in the living room is higher than 25, turn off smart light in the sitting room .
+375.	if the luminance in the living room is more than 25, turn off smart light in the sitting room .
+376.	if the luminance in the living room is between 25 and 30, open smart light in the sitting room .
+377.	if the pm2.5 in the sitting room is below 35, turn on the air detector in the sitting room.
+378.	if the pm2.5 in the sitting room is less than 35, turn on the air detector in the sitting room.
+379.	if the pm2.5 in the sitting room is lower than 35, turn on the air purifier in the sitting room.
+380.	if the pm2.5 in the sitting room is above 35, turn up the air purifier in the sitting room.
+381.	if the pm2.5 in the sitting room is higher than 35, turn up the air purifier in the sitting room.
+382.	if the pm2.5 in the sitting room is more than 35, turn on the air purifier in the sitting room.
+383.	if the pm2.5 in the sitting room is between 35 and 45, turn on the air purifier in the sitting room.
+384.	if the pm2.5 in the living room is below 35, turn on the air purifier in the sitting room.
+385.	if the pm2.5 in the living room is less than 35, turn on the air detector in the sitting room.
+386.	if the pm2.5 in the living room is lower than 35, turn on the air detector in the sitting room.
+387.	if the pm2.5 in the living room is above 35, turn on the air detector in the sitting room.
+388.	if the pm2.5 in the living room is higher than 35, turn on the air detector in the sitting room.
+389.	if the pm2.5 in the living room is more than 35, turn on the air detector in the sitting room.
+390.	if the pm2.5 in the living room is between 35 and 45, turn on the air purifier in the sitting room.
+391.	if the pm2.5 in the drawing room is below 35, turn on the air purifier in the sitting room.
+392.	if the pm2.5 in the drawing room is less than 35, turn on the air purifier in the sitting room.
+393.	if the pm2.5 in the drawing room is lower than 35, turn on the air detector in the sitting room.
+394.	if the pm2.5 in the drawing room is above 35, turn on the air detector in the sitting room.
+395.	if the pm2.5 in the drawing room is higher than 35, turn on the air detector in the sitting room.
+396.	if the pm2.5 in the drawing room is more than 35, turn on the air detector in the sitting room.
+397.	if the pm2.5 in the drawing room is between 35 and 45, turn on the air detector in the sitting room.
+398.	if the temperature in the bedroom is below 23, turn up the air conditioning in the bedroom.
+399.	if the temperature in the bedroom is less than 23, turn up the air conditioning in the bedroom.
+400.	if the temperature in the bedroom is lower than 23, turn up the air conditioning in the bedroom.
+401.	if the temperature in the bedroom is above 23, turn up the air conditioning in the bedroom.
+402.	if the temperature in the bedroom is higher than 23, turn on the air conditioning in the bedroom.
+403.	if the temperature in the bedroom is more than 23, turn on the air conditioning in the bedroom.
+404.	if the temperature in the bedroom is between 23  and 30, turn on the air conditioning in the bedroom.
+405.	if the temperature in the bedchamber is below 23, turn on the air conditioning in the bedroom.
+406.	if the temperature in the bedchamber is less than 23, turn on the air conditioning in the bedroom.
+407.	if the temperature in the bedchamber is lower than 23, turn on the air conditioning in the bedroom.
+408.	if the temperature in the bedchamber is above 23, turn on the air conditioning in the bedroom.
+409.	if the temperature in the bedchamber is higher than 23, turn up the air conditioning in the bedroom.
+410.	if the temperature in the bedchamber is more than 23, turn up the air conditioning in the bedroom.
+411.	if the temperature in the bedchamber is between 23  and 30, turn up the air conditioning in the bedroom.
+412.	if the brightness in the bedroom is below 23, open the smart light in the bedroom .
+413.	if the brightness in the bedroom is less than 23, open the smart light in the bedroom .
+414.	if the brightness in the bedroom is lower than 23, open the smart light in the bedroom .
+415.	if the brightness in the bedroom is above 23, open the smart light in the bedroom .
+416.	if the brightness in the bedroom is higher than 23, open the smart light in the bedroom .
+417.	if the brightness in the bedroom is more than 23, open the smart light in the bedroom .
+418.	if the brightness in the bedroom is between 23 and 30 ,open the smart light in the bedroom .
+419.	if the luminance in the bedroom is below 23, open the smart light in the bedroom .
+420.	if the luminance in the bedroom is less than 23, open the smart light in the bedroom .
+421.	if the luminance in the bedroom is lower than 23, open the smart light in the bedroom .
+422.	if the luminance in the bedroom is above 23, open the smart light in the bedroom .
+423.	if the luminance in the bedroom is higher than 23, open the smart light in the bedroom .
+424.	if the luminance in the bedroom is more than 23, open the smart light in the bedroom .
+425.	if the luminance in the bedroom is between 23 and 30, open the smart light in the bedroom .
+426.	if the luminance in the bedchamber is below 23, turn up the brightness in the bedroom .
+427.	if the luminance in the bedchamber is less than 23, open the smart light in the bedroom .
+428.	if the luminance in the bedchamber is lower than 23, open the smart light in the bedroom .
+429.	if the luminance in the bedchamber is above 23, open the smart light in the bedroom .
+430.	if the luminance in the bedchamber is higher than 23, open the smart light in the bedroom .
+431.	if the luminance in the bedchamber is more than 23, open the smart light in the bedroom .
+432.	if the luminance in the bedchamber is between 23 and 30, turn up the brightness of bedroom .
+433.	if the lightness in the bedroom is below 23, turn up the brightness of bedroom .
+434.	if the lightness in the bedroom is less than 23, open the smart light in the bedroom .
+435.	if the lightness in the bedroom is lower than 23, open the smart light in the bedroom .
+436.	if the lightness in the bedroom is above 23, open the smart light in the bedroom .
+437.	if the lightness in the bedroom is higher than 23, turn up the brightness of bedroom .
+438.	if the lightness in the bedroom is more than 23, open the smart light in the bedroom .
+439.	if the lightness in the bedroom is between 23 and 30, open the smart light in the bedroom ..
+440.	if the lightness in the bedchamber is below 23, open the smart light in the bedroom .
+441.	if the lightness in the bedchamber is less than 23, open the smart light in the bedroom .
+442.	if the lightness in the bedchamber is lower than 23, open the smart light in the bedroom .
+443.	if the lightness in the bedchamber is above 23, turn up the brightness of bedroom .
+444.	if the lightness in the bedchamber is higher than 23, open the smart light in the bedroom .
+445.	if the lightness in the bedchamber is more than 23, open the smart light in the bedroom .
+446.	if the lightness in the bedchamber is between 23 and 30, turn up the brightness of bedroom .
+447.	if the brightness in the bedchamber is below 23, open the smart light in the bedroom .
+448.	if the brightness in the bedchamber is less than 23, open the smart light in the bedroom .
+449.	if the brightness in the bedchamber is lower than 23, open the smart light in the bedroom .
+450.	if the brightness in the bedchamber is above 23, open the smart light in the bedroom .
+451.	if the brightness in the bedchamber is higher than 23, turn up the brightness in the bedroom .
+452.	if the brightness in the bedchamber is more than 23, open the smart light in the bedroom .
+453.	if the brightness in the bedchamber is between 23 and 30, open the smart light in the bedroom .
+454.	if the luminance in the bedroom is below 23, open the smart light in the bedroom .
+455.	if the luminance in the bedroom is less than 23, open the smart light in the bedroom .
+456.	if the luminance in the bedroom is lower than 23, open the smart light in the bedroom .
+457.	if the luminance in the bedroom is above 23, open the smart light in the bedroom .
+458.	if the luminance in the bedroom is higher than 23, open the smart light in the bedroom .
+459.	if the luminance in the bedroom is more than 23, open the smart light in the bedroom .
+460.	if the luminance in the bedroom is between 23 and 30, open the smart light in the bedroom .
+461.	if the luminance in the bedchamber is below 23, turn up the brightness in the bedroom .
+462.	if the luminance in the bedchamber is less than 23, open the smart light in the bedroom .
+463.	if the luminance in the bedchamber is lower than 23, open the smart light in the bedroom .
+464.	if the luminance in the bedchamber is above 23, open the smart light in the bedroom .
+465.	if the luminance in the bedchamber is higher than 23, open the smart light in the bedroom .
+466.	if the luminance in the bedchamber is more than 23, open the smart light in the bedroom .
+467.	if the luminance in the bedchamber is between 23 and 30, turn up the brightness of bedroom .
+468.	if the lightness in the bedroom is below 23, turn up the brightness of bedroom .
+469.	if the lightness in the bedroom is less than 23, open the smart light in the bedroom .
+470.	if the lightness in the bedroom is lower than 23, open the smart light in the bedroom .
+471.	if the lightness in the bedroom is above 23, open the smart light in the bedroom .
+472.	if the lightness in the bedroom is higher than 23, turn up the brightness of bedroom .
+473.	if the lightness in the bedroom is more than 23, open the smart light in the bedroom .
+474.	if the lightness in the bedroom is between 23 and 30, open the smart light in the bedroom ..
+475.	if the lightness in the bedchamber is below 23, open the smart light in the bedroom .
+476.	if the lightness in the bedchamber is less than 23, open the smart light in the bedroom .
+477.	if the lightness in the bedchamber is lower than 23, open the smart light in the bedroom .
+478.	if the lightness in the bedchamber is above 23, turn up the brightness of bedroom .
+479.	if the lightness in the bedchamber is higher than 23, open the smart light in the bedroom .
+480.	if the lightness in the bedchamber is more than 23, open the smart light in the bedroom .
+481.	if the lightness in the bedchamber is between 23 and 30, turn up the brightness of bedroom .
+482.	if the pm2.5 in the bedroom is below 35, turn on the pm2.5 detector in the bedroom .
+483.	if the pm2.5 in the bedroom is less than 35, turn on the pm2.5 monitor in the bedroom .
+484.	if the pm2.5 in the bedroom is lower than 35, turn on the pm2.5 detector in the bedroom .
+485.	if the pm2.5 in the bedroom is above 35, turn on the pm2.5 detector in the bedroom .
+486.	if the pm2.5 in the bedroom is higher than 35, turn up the pm2.5 monitor in the bedroom .
+487.	if the pm2.5 in the bedroom is more than 35, turn on the pm2.5 monitor in the bedroom .
+488.	if the pm2.5 in the bedroom is between 35 and 50, turn on the pm2.5 monitor in the bedroom .
+489.	if the pm2.5 in the bedchamber is below 35, turn on the pm2.5 monitor in the bedroom .
+490.	if the pm2.5 in the bedchamber is less than 35, turn on the pm2.5 detector in the bedroom .
+491.	if the pm2.5 in the bedchamber is lower than 35, turn on the pm2.5 detector in the bedroom .
+492.	if the pm2.5 in the bedchamber is above 35, turn on the pm2.5 detector in the bedroom .
+493.	if the pm2.5 in the bedchamber is higher than 35, turn up the pm2.5 monitor in the bedroom .
+494.	if the pm2.5 in the bedchamber is more than 35, turn on the pm2.5 monitor in the bedroom .
+495.	if the pm2.5 in the bedchamber is between 35 and 50, turn on the pm2.5 monitor in the bedroom .
+496.	if the pm2.5 in the bedroom is below 35, turn up the pm2.5 monitor in the bedroom .
+497.	if the pm2.5 in the sleeping room is less than 35, turn up the pm2.5 monitor in the bedroom .
+498.	if the pm2.5 in the sleeping room is lower than 35, turn up the pm2.5 monitor in the bedroom .
+499.	if the pm2.5 in the sleeping room is above 35, turn on the pm2.5 monitor in the bedroom .
+500.	if the pm2.5 in the sleeping room is higher than 35, turn on the pm2.5 monitor in the bedroom .
+501.	if the pm2.5 in the sleeping room is more than 35, turn on the pm2.5 monitor in the bedroom .
+502.	if the pm2.5 in the sleeping room is between 35 and 50, turn on the pm2.5 detector in the bedroom .
+503.	if the particulate matter 2.5 in the bedroom is below 35, turn on the pm2.5 detector in the bedroom .
+504.	if the particulate matter 2.5 in the bedroom is less than 35, turn on the pm2.5 monitor in the bedroom .
+505.	if the particulate matter 2.5 in the bedroom is lower than 35, turn on the pm2.5 monitor in the bedroom .
+506.	if the particulate matter 2.5 in the bedroom is above 35, turn on the pm2.5 monitor in the bedroom .
+507.	if the particulate matter 2.5 in the bedroom is higher than 35, turn on the pm2.5 monitor in the bedroom .
+508.	if the particulate matter 2.5 in the bedroom is more than 35, turn on the pm2.5 monitor in the bedroom .
+509.	if the particulate matter 2.5 in the bedroom is between 35 and 50, turn on the pm2.5 monitor in the bedroom .
+510.	if the particulate matter 2.5 in the bedchamber is below 35, turn on the pm2.5 detector in the bedroom .
+511.	if the particulate matter 2.5 in the bedchamber is less than 35, turn on the pm2.5 detector in the bedroom .
+512.	if the particulate matter 2.5 in the bedchamber is lower than 35, turn on the pm2.5 monitor in the bedroom .
+513.	if the particulate matter 2.5 in the bedchamber is above 35, turn up the pm2.5 monitor in the bedroom .
+514.	if the particulate matter 2.5 in the bedchamber is higher than 35, turn up the pm2.5 monitor in the bedroom .
+515.	if the particulate matter 2.5 in the bedchamber is more than 35, turn up the pm2.5 monitor in the bedroom .
+516.	if the particulate matter 2.5 in the bedchamber is between 35 and 50, turn on the pm2.5 monitor in the bedroom .
+517.	if the particulate matter 2.5 in the bedroom is below 35, turn on the pm2.5 monitor in the bedroom .
+518.	if the particulate matter 2.5 in the sleeping room is less than 35, turn on the pm2.5 monitor in the bedroom .
+519.	if the particulate matter 2.5 in the sleeping room is lower than 35, turn on the pm2.5 monitor in the bedroom .
+520.	if the particulate matter 2.5 in the sleeping room is above 35, turn on the pm2.5 monitor in the bedroom .
+521.	if the particulate matter 2.5 in the sleeping room is higher than 35, turn on the pm2.5 detector in the bedroom .
+522.	if the particulate matter 2.5 in the sleeping room is more than 35, turn on the pm2.5 detector in the bedroom .
+523.	if the particulate matter 2.5 in the sleeping room is between 35 and 50, turn on the pm2.5 monitor in the bedroom .
+524.	if the humidity in the balcony is below 15, set humidity in the balcony to 30
+525.	if the humidity in the balcony is less than 15, set humidity in the balcony to 30
+526.	if the humidity in the balcony is lower than 15, set humidity in the balcony to 30
+527.	if the humidity in the balcony is above 15, set humidity in the balcony to 30
+528.	if the humidity in the balcony is higher than 15, set humidity in the balcony to 30
+529.	if the humidity in the balcony is more than 15, set humidity in the balcony to 30
+530.	if the humidity in the balcony is between 15 and 40, set humidity in the balcony to 30
+531.	if the wetness in the balcony is below 15, set humidity in the balcony to 30
+532.	if the wetness in the balcony is less than 15, set humidity in the balcony to 30
+533.	if the wetness in the balcony is lower than 15, set humidity in the balcony to 30
+534.	if the wetness in the balcony is above 15, set humidity in the balcony to 30
+535.	if the moisture in the balcony is below 15, set humidity in the balcony to 30
+536.	if the moisture in the balcony is less than 15, turn up the humidity of balcony .
+537.	if the moisture in the balcony is lower than 15, set humidity in the balcony to 30
+538.	if the moisture in the balcony is above 15, set humidity in the balcony to 30
+539.	if the moisture in the balcony is higher than 15, set humidity in the balcony to 30
+540.	if the moisture in the balcony is more than 15, set humidity in the balcony to 30
+541.	if the moisture in the balcony is between 15 and 40, turn up the humidity of balcony .
+542.	if the humidness in the balcony is below 15, turn up the humidity of balcony .
+543.	if the humidness in the balcony is less than 15, set humidity in the balcony to 30
+544.	if the humidness in the balcony is lower than 15, set humidity in the balcony to 30
+545.	if the humidness in the balcony is above 15, set humidity in the balcony to 30
+546.	if the humidness in the balcony is higher than 15, turn up the humidity of balcony .
+547.	if the humidness in the balcony is more than 15, set humidity in the balcony to 30
+548.	if the humidness in the balcony is between 15 and 40, set humidity in the balcony to 30
+549.	if the humidity in the veranda is below 15, turn up the humidity of balcony .
+550.	if the humidity in the veranda is less than 15, set humidity in the balcony to 30
+551.	if the humidity in the veranda is lower than 15, set humidity in the balcony to 30
+552.	if the humidity in the veranda is above 15, set humidity in the balcony to 30
+553.	if the humidity in the veranda is higher than 15, set humidity in the balcony to 30
+554.	if the humidity in the veranda is more than 15, set humidity in the balcony to 30
+555.	if the humidity in the veranda is between 15 and 40, set humidity in the balcony to 30
+556.	if the wetness in the veranda is below 15, turn up the humidity of the balcony .
+557.	if the wetness in the veranda is less than 15, turn up the humidity of the balcony .
+558.	if the wetness in the veranda is lower than 15, turn up the humidity of the balcony .
+559.	if the wetness in the veranda is above 15, set humidity in the balcony to 30
+560.	if the wetness in the veranda is higher than 15, set humidity in the balcony to 30
+561.	if the wetness in the veranda is more than 15, set humidity in the balcony to 30
+562.	if the wetness in the veranda is between 15 and 40, set humidity in the balcony to 30
+563.	if the veranda is too moist,  set humidity in the balcony to 30
+564.	if the moisture in the veranda is less than 15, set humidity in the balcony to 30
+565.	if the moisture in the veranda is lower than 15, set humidity in the balcony to 30
+566.	if the veranda is too moist, set humidity in the balcony to 30
+567.	if the moisture in the veranda is higher than 15, turn up the humidity of the balcony .
+568.	if the moisture in the veranda is more than 15, turn up the humidity of the balcony .
+569.	if the moisture in the veranda is between 15 and 40, turn up the humidity of the balcony .
+570.	if the humidness in the veranda is below 15, set humidity in the balcony to 30
+571.	if the humidness in the veranda is less than 15, set humidity in the balcony to 30
+572.	if the humidness in the veranda is lower than 15, turn up the humidity of the balcony .
+573.	if the humidness in the veranda is above 15, turn up the humidity of the balcony .
+574.	if the humidness in the veranda is higher than 15, set humidity in the balcony to 30
+575.	if the humidness in the veranda is more than 15, set humidity in the balcony to 30
+576.	if the humidness in the veranda is between 15 and 40, set humidity in the balcony to 30.
+577.	if the humidity in the balcony is below 15, set humidity in the balcony to 30
+578.	if the humidity in the balcony is less than 15, set humidity in the balcony to 30
+579.	if the humidity in the balcony is lower than 15, set humidity in the balcony to 30
+580.	if the humidity in the balcony is above 15, set humidity in the balcony to 30
+581.	if the humidity in the balcony is higher than 15, set humidity in the balcony to 30
+582.	if the humidity in the balcony is more than 15, set humidity in the balcony to 30
+583.	if the humidity in the balcony is between 15 and 40, set humidity in the balcony to 30
+584.	if the wetness in the balcony is below 15, set humidity in the balcony to 30
+585.	if the wetness in the balcony is less than 15, set humidity in the balcony to 30
+586.	if the wetness in the balcony is lower than 15, set humidity in the balcony to 30
+587.	turn the air conditioner in the sitting room on.
+588.	turn the air conditioner in the sitting room off.
+589.	open the air conditioning in the sitting room .
+590.	shut down the air conditioner in the sitting room .
+591.	set the temperature of the air conditioner in the sitting room to x .
+592.	turn the temperature of the air conditioner in the sitting room to x .
+593.	turn the smart light in the sitting room on.
+594.	turn the smart light in the sitting room off.
+595.	open the smart light in the sitting room .
+596.	shut down the smart light in the sitting room .
+597.	set the brightness of the smart light in the sitting room to x .
+598.	turn the brightness of the smart light in the sitting room to x .
+599.	turn the air quality monitor in the sitting room on.
+600.	turn the pm2.5 monitor in the sitting room off.
+601.	open the pm2.5 detector in the sitting room .
+602.	shut down the pm2.5 monitor in the sitting room .
+603.	set the pm2.5 of the air quality monitor in the sitting room to x .
+604.	turn the pm2.5 of the pm2.5 detector in the sitting room to x .
+605.	turn the air cleaner in the sitting room on .
+606.	turn the air cleaner in the sitting room off.
+607.	open the air cleaner in the sitting room .
+608.	shut down the air cleaner in the sitting room .
+609.	set the pm2.5 of the air cleaner in the sitting room to x .
+610.	turn the pm2.5 of the air cleaner in the sitting room to x .
+611.	turn the air conditioner in the bedroom on.
+612.	turn the air conditioner in the bedroom off.
+613.	open the air conditioner in the bedroom .
+614.	shut down the air conditioner in the bedroom .
+615.	set the temperature of the air conditioner in the bedroom to x .
+616.	turn the temperature of the air conditioner in the bedroom to x .
+617.	turn the smart light in the bedroom on.
+618.	turn the smart light in the bedroom off.
+619.	open the smart light in the bedroom .
+620.	shut down the smart light in the bedroom .
+621.	set the brightness of the smart light in the bedroom to x .
+622.	turn the brightness of the smart light in the bedroom to x .
+623.	turn the flower monitor in the balcony on.
+624.	turn the flower monitor in the balcony off.
+625.	open the flower monitor in the balcony .
+626.	shut down the flower monitor in the balcony .
+627.	set the humidity of the flower monitor in the balcony to x .
+628.	turn the humidity of the flower monitor in the balcony to x .
+629.	turn the water pump in the balcony on.
+630.	turn the water pump in the balcony off.
+631.	open the water pump in the balcony .
+632.	shut down the water pump in the balcony .
+633.	set the humidity of the water pump in the balcony to x .
+634.	turn the humidity of the water pump in the balcony to x .
+635.	turn on the smart fan in the sitting room .
+636.	turn off the smart fan in the sitting room .
+637.	open the smart fan in the sitting room .
+638.	shut down the smart fan in the sitting room .
+639.	set the temperature of the smart fan in the sitting room to x .
+640.	turn the temperature of the smart fan in the sitting room to x .
+641.	monitor the brightness of sitting room .
+642.	increase the brightness of sitting room .
+643.	assign the brightness of sitting room .
+644.	monitor the pm2.5 of sitting room .
+645.	reduce the pm2.5 of sitting room .
+646.	monitor the temperature of bedchamber .
+647.	increase the temperature of bedchamber .
+648.	reduce the temperature of bedroom .
+649.	assign the temperature of bedroom .
+650.	monitor the temperature of sitting room .
+651.	increase the temperature of sitting room .
+652.	reduce the temperature of sitting room .
+653.	assign the temperature of sitting room .
+654.	monitor the humidity of balcony .
+655.	increase the humidity of balcony .
+656.	set the temperature of sitting room to x .
+657.	set the brightness of sitting room to x .
+658.	set the pm2.5 of sitting room to x .
+659.	set the temperature of bedchamber to x .
+660.	set the brightness of bedchamber to x .
+661.	set the pm2.5 of bedchamber to x .
+662.	set the humidity of balcony to x .
+663.	set the brightness of balcony to x .
+664.	turn air conditioner in the sitting room on.
+665.	turn air conditioner in the sitting room off.
+666.	open air conditioner in the sitting room .
+667.	shut down air conditioner in the sitting room .
+668.	set temperature of the air conditioner in the sitting room to x .
+669.	turn temperature of the air conditioner in the sitting room to x .
+670.	turn on smart light in the sitting room .
+671.	turn off smart light in the sitting room .
+672.	open smart light in the sitting room .
+673.	shut down smart light in the sitting room .
+674.	set brightness of the smart light in the sitting room to x .
+675.	turn brightness of the smart light in the sitting room to x .
+676.	turn on air quality monitor in the sitting room .
+677.	turn off pm2.5 detector in the sitting room .
+678.	open pm2.5 detector in the sitting room .
+679.	shut down pm2.5 monitor in the sitting room .
+680.	set pm2.5 of the air quality monitor in the sitting room to x .
+681.	turn pm2.5 of the pm2.5 detector in the sitting room to x .
+682.	turn up air cleaner in the sitting room .
+683.	turn off air cleaner in the sitting room .
+684.	open air cleaner in the sitting room .
+685.	shut down air cleaner in the sitting room .
+686.	set pm2.5 of the air cleaner in the sitting room to x .
+687.	turn pm2.5 of the air cleaner in the sitting room to x .
+688.	turn air conditioner in the bedroom on.
+689.	turn air conditioner in the bedroom off.
+690.	open air conditioner in the bedroom .
+691.	shut down air conditioner in the bedroom .
+692.	set temperature of the air conditioner in the bedroom to x .
+693.	turn temperature of the air conditioner in the bedroom to x .
+694.	turn on smart light in the bedroom .
+695.	turn off smart light in the bedroom .
+696.	open smart light in the bedroom .
+697.	shut down smart light in the bedroom .
+698.	set brightness of the smart light in the bedroom to x .
+699.	turn brightness of the smart light in the bedroom to x .
+700.	turn up flower monitor in the balcony .
+701.	turn off flower monitor in the balcony .
+702.	open flower monitor in the balcony .
+703.	shut down flower monitor in the balcony .
+704.	set humidity of the flower monitor in the balcony to x .
+705.	turn humidity of the flower monitor in the balcony to x .
+706.	turn water pump in the balcony on.
+707.	turn water pump in the balcony off.
+708.	open water pump in the balcony .
+709.	shut down water pump in the balcony .
+710.	set humidity of the water pump in the balcony to x .
+711.	turn humidity of the water pump in the balcony to x .
+712.	turn up smart fan in the sitting room .
+713.	turn off smart fan in the sitting room .
+714.	open smart fan in the sitting room .
+715.	shut down smart fan in the sitting room .
+716.	set temperature of the smart fan in the sitting room to x .
+717.	turn temperature of the smart fan in the sitting room to x .
+718.	monitor brightness of sitting room .
+719.	increase brightness of sitting room .
+720.	assign brightness of sitting room .
+721.	monitor air quality of sitting room .
+722.	reduce air quality of sitting room .
+723.	monitor temperature of bedroom .
+724.	increase temperature of bedroom .
+725.	reduce temperature of bedroom .
+726.	assign temperature of bedroom .
+727.	monitor temperature of sitting room .
+728.	increase temperature of sitting room .
+729.	reduce temperature of sitting room .
+730.	assign temperature of sitting room .
+731.	monitor humidity of balcony .
+732.	increase humidity of balcony .
+733.	set temperature of sitting room to x .
+734.	set brightness of sitting room to x .
+735.	turn the air cleaner in the sitting room on .
+736.	turn the air cleaner in the sitting room off.
+737.	open the air cleaner in the sitting room .
+738.	set air quality of bedroom to x .
+739.	set humidity of balcony to x .
+740.	set brightness of balcony to x .
+741.	turn the air conditioner in sitting room on.
+742.	turn the air conditioner in sitting room off.
+743.	open the air conditioner in sitting room .
+744.	shut down the air conditioner in sitting room .
+745.	set the temperature of air conditioner in sitting room to x .
+746.	turn the temperature of air conditioner in sitting room to x .
+747.	turn on the smart light in sitting room .
+748.	turn off the smart light in sitting room .
+749.	open the smart light in sitting room .
+750.	shut down the smart light in sitting room .
+751.	set the brightness of the smart light in sitting room to x .
+752.	turn the brightness of the smart light in sitting room to x .
+753.	turn up the pm2.5 monitor in sitting room .
+754.	turn off the pm2.5 detector in sitting room .
+755.	open the pm2.5 detector in sitting room .
+756.	shut down the pm2.5 monitor in sitting room .
+757.	set the pm2.5 of the air quality monitor in sitting room to x .
+758.	turn the pm2.5 of the pm2.5 detector in sitting room to x .
+759.	turn the air cleaner in sitting room on.
+760.	turn the air cleaner in sitting room off.
+761.	open the air cleaner in sitting room .
+762.	shut down the air cleaner in sitting room .
+763.	set the pm2.5 of the air cleaner in sitting room to x .
+764.	turn the pm2.5 of the air cleaner in sitting room to x .
+765.	turn on the air conditioner in bedroom .
+766.	turn off the air conditioner in bedroom .
+767.	open the air conditioner in bedroom .
+768.	shut down the air conditioner in bedroom .
+769.	set the temperature of the air conditioner in bedroom to x .
+770.	turn the temperature of the air conditioner in bedroom to x .
+771.	turn the smart light in bedroom on.
+772.	turn the smart light in bedroom off.
+773.	open the smart light in bedroom .
+774.	shut down the smart light in bedroom .
+775.	set the brightness of the smart light in bedroom to x .
+776.	turn the brightness of the smart light in bedroom to x .
+777.	turn on the flower monitor in balcony .
+778.	turn up the flower monitor in balcony .
+779.	open the flower monitor in balcony .
+780.	shut down the flower monitor in balcony .
+781.	set the humidity of the flower monitor in balcony to x .
+782.	turn the humidity of the flower monitor in balcony to x .
+783.	turn the water pump in balcony on.
+784.	turn the water pump in balcony off.
+785.	open the water pump in balcony .
+786.	shut down the water pump in balcony .
+787.	set the humidity of the water pump in balcony to x .
+788.	turn the humidity of the water pump in balcony to x .
+789.	turn up the smart fan in sitting room .
+790.	turn off the smart fan in sitting room .
+791.	open the smart fan in sitting room .
+792.	shut down the smart fan in sitting room .
+793.	set the temperature of the smart fan in sitting room to x .
+794.	turn the temperature of the smart fan in sitting room to x .
+795.	monitor the brightness of sitting room .
+796.	increase the brightness of sitting room .
+797.	assign the brightness of sitting room .
+798.	monitor the pm2.5 of sitting room .
+799.	reduce the pm2.5 of sitting room .
+800.	monitor the temperature of bedroom .
+801.	increase the temperature of bedroom .
+802.	reduce the temperature of bedroom .
+803.	assign the temperature of bedroom .
+804.	monitor the temperature of sitting room .
+805.	increase the temperature of sitting room .
+806.	reduce the temperature of sitting room .
+807.	assign the temperature of sitting room .
+808.	monitor the humidity of veranda .
+809.	increase the humidity of veranda .
+810.	set the temperature of sitting room to x .
+811.	set the brightness of sitting room to x .
+812.	set the pm2.5 of sitting room to x .
+813.	set the temperature of bedroom to x .
+814.	set the brightness of bedroom to x .
+815.	set the pm2.5 of bedroom to x .
+816.	set the humidity of veranda to x .
+817.	set the brightness of veranda to x .
+818.	turn up air conditioner in sitting room .
+819.	turn down air conditioner in sitting room .
+820.	open air conditioner in sitting room .
+821.	shut down air conditioner in sitting room .
+822.	set temperature of the air conditioner in sitting room to x .
+823.	turn temperature of the air conditioner in sitting room to x .
+824.	turn on smart light in sitting room .
+825.	turn off smart light in sitting room .
+826.	open smart light in sitting room .
+827.	shut down smart light in sitting room .
+828.	set brightness of the smart light in sitting room to x .
+829.	turn brightness of the smart light in sitting room to x .
+830.	turn on pm2.5 monitor in sitting room .
+831.	turn off pm2.5 detector in sitting room .
+832.	open air quality monitor in sitting room .
+833.	shut down pm2.5 detector in sitting room .
+834.	set pm2.5 of the pm2.5 monitor in sitting room to x .
+835.	turn pm2.5 of the pm2.5 detector in sitting room to x .
+836.	turn on air cleaner in living room .
+837.	turn off air cleaner in living room .
+838.	open air cleaner in living room .
+839.	shut down air cleaner in living room .
+840.	set pm2.5 of the air cleaner in sitting room to x .
+841.	turn pm2.5 of the air cleaner in sitting room to x .
+842.	turn on air conditioner in bedroom .
+843.	turn off air conditioner in bedroom .
+844.	open air conditioner in bedroom .
+845.	shut down air conditioner in bedroom .
+846.	set temperature of the air conditioner in bedroom to x .
+847.	turn temperature of the air conditioner in bedroom to x .
+848.	turn up smart light in bedroom .
+849.	turn down smart light in bedroom .
+850.	open smart light in bedroom .
+851.	shut down smart light in bedroom .
+852.	set brightness of the smart light in bedroom to x .
+853.	turn brightness of the smart light in bedroom to x .
+854.	turn on flower monitor in balcony .
+855.	turn off flower monitor in balcony .
+856.	open flower monitor in balcony .
+857.	shut down flower monitor in balcony .
+858.	set humidity of the flower monitor in balcony to x .
+859.	turn humidity of the flower monitor in balcony to x .
+860.	turn on water pump in balcony .
+861.	turn off water pump in balcony .
+862.	open water pump in balcony .
+863.	shut down water pump in balcony .
+864.	set humidity of the water pump in balcony to x .
+865.	turn humidity of the water pump in balcony to x .
+866.	turn smart fan in sitting room on.
+867.	turn smart fan in sitting room off.
+868.	open smart fan in sitting room .
+869.	shut down smart fan in sitting room .
+870.	set temperature of the smart fan in sitting room to x .
+871.	turn temperature of the smart fan in sitting room to x .
+872.	monitor brightness of sitting room .
+873.	increase lightness of sitting room .
+874.	assign lightness of sitting room .
+875.	monitor pm2.5 of sitting room .
+876.	reduce pm2.5 of sitting room .
+877.	monitor temperature of bedroom .
+878.	increase temperature of bedroom .
+879.	reduce temperature of bedroom .
+880.	assign temperature of bedroom .
+881.	monitor temperature of sitting room .
+882.	increase temperature of sitting room .
+883.	reduce temperature of sitting room .
+884.	assign temperature of sitting room .
+885.	monitor wetness of balcony .
+886.	increase wetness of balcony .
+887.	set temperature of sitting room to x .
+888.	set brightness of sitting room to x .
+889.	set pm2.5 of sitting room to x .
+890.	set temperature of bedroom to x .
+891.	set luminance of bedroom to x .
+892.	set pm2.5 of bedroom to x .
+893.	set humidity of balcony to x .
+894.	set luminance of balcony to x .
+895.	set temperature of air conditioner in sitting room to x .
+896.	turn temperature of air conditioner in sitting room to x .
+897.	set brightness of smart light in sitting room to x .
+898.	turn brightness of smart light in sitting room to x .
+899.	set air quality of pm2.5 monitor in sitting room to x .
+900.	turn air quality of pm2.5 monitor in sitting room to x .
+901.	set pm2.5 of air cleaner in living room to x .
+902.	turn pm2.5 of air cleaner in living room to x .
+903.	set temperature of air conditioner in bedroom to x .
+904.	turn temperature of air conditioner in bedroom to x .
+905.	set brightness of smart light in bedroom to x .
+906.	turn brightness of smart light in bedroom to x .
+907.	set humidity of flower monitor in balcony to x .
+908.	turn humidity of flower monitor in balcony to x .
+909.	set humidity of water pump in balcony to x .
+910.	turn humidity of water pump in balcony to x .
+911.	set temperature of smart fan in living room to x .
+912.	turn temperature of smart fan in living room to x .
+913.	set temperature of air conditioner of sitting room to x .
+914.	turn temperature of air conditioner of sitting room to x .
+915.	set brightness of smart light of sitting room to x .
+916.	turn brightness of smart light of sitting room to x .
+917.	set air quality of pm2.5 monitor of sitting room to x .
+918.	turn air quality of pm2.5 monitor of sitting room to x .
+919.	set pm2.5 of air cleaner of sitting room to x .
+920.	turn pm2.5 of air cleaner of sitting room to x .
+921.	set temperature of air conditioner of bedroom to x .
+922.	turn temperature of air conditioner of bedroom to x .
+923.	set brightness of smart light of bedroom to x .
+924.	turn brightness of smart light of bedroom to x .
+925.	set humidity of flower monitor of balcony to x .
+926.	turn humidity of flower monitor of balcony to x .
+927.	set humidity of the water pump of balcony to x .
+928.	turn humidity of the water pump of balcony to x .
+929.	turn up smart fan of sitting room .
+930.	turn off smart fan of sitting room .
+931.	open smart fan of sitting room .
+932.	shut down smart fan of sitting room .
+933.	set temperature of the smart fan of sitting room to x .
+934.	turn temperature of the smart fan of sitting room to x .
+935.	turn on the air conditioner of sitting room .
+936.	turn off the air conditioner of sitting room .
+937.	open the air conditioner of sitting room .
+938.	set humidity of water pump of balcony to x .
+939.	turn humidity of water pump of balcony to x .
+940.	set temperature of smart fan of sitting room to x .
+941.	turn temperature of smart fan of sitting room to x .
+942.	turn up air conditioner of sitting room .
+943.	turn off air conditioner of sitting room .
+944.	open air conditioner of sitting room .
+945.	shut down air conditioner of sitting room .
+946.	set temperature of the air conditioner of sitting room to x .
+947.	turn temperature of the air conditioner of sitting room to x .
+948.	turn up smart light of sitting room .
+949.	turn down smart light of sitting room .
+950.	open smart light of sitting room .
+951.	shut down smart light of sitting room .
+952.	set brightness of the smart light of sitting room to x .
+953.	turn brightness of the smart light of sitting room to x .
+954.	turn on pm2.5 detector of sitting room .
+955.	shut down smart light of sitting room .
+956.	turn off pm2.5 monitor of sitting room .
+957.	open pm2.5 detector of sitting room .
+958.	shut down air quality monitor of sitting room .
+959.	set pm2.5 of the air quality monitor of sitting room to x .
+960.	turn pm2.5 of the pm2.5 monitor of sitting room to x .
+961.	turn up air cleaner of sitting room .
+962.	turn off air cleaner of sitting room .
+963.	open air cleaner of sitting room .
+964.	shut down air cleaner of sitting room .
+965.	set pm2.5 of the air cleaner of sitting room to x .
+966.	turn pm2.5 of the air cleaner of sitting room to x .
+967.	turn on air conditioner of bedroom .
+968.	turn off air conditioner of bedroom .
+969.	open air conditioner of bedroom .
+970.	shut down air conditioner of bedroom .
+971.	set temperature of the air conditioner of bedroom to x .
+972.	turn temperature of the air conditioner of bedroom to x .
+973.	turn up smart light of bedroom .
+974.	turn off smart light of bedroom .
+975.	open smart light of bedroom .
+976.	shut down smart light of bedroom .
+977.	set brightness of the smart light of bedroom to x .
+978.	turn brightness of the smart light of bedroom to x .
+979.	turn up flower monitor of balcony .
+980.	turn off flower monitor of balcony .
+981.	open flower monitor of balcony .
+982.	shut down flower monitor of balcony .
+983.	set humidity of the flower monitor of balcony to x .
+984.	turn humidity of the flower monitor of balcony to x .
+985.	turn on water pump of balcony .
+986.	turn off water pump of balcony .
+987.	open water pump of balcony .
+988.	shut down water pump of balcony .
+989.	set humidity of the water pump of balcony to x .
+990.	turn humidity of the water pump of balcony to x .
+991.	turn up smart fan of sitting room .
+992.	turn off smart fan of sitting room .
+993.	open smart fan of sitting room .
+994.	shut down smart fan of sitting room .
+995.	set temperature of the smart fan of sitting room to x .
+996.	turn temperature of the smart fan of sitting room to x .
+997.	turn on the air conditioner of sitting room .
+998.	turn off the air conditioner of sitting room .
+999.	open the air conditioner of sitting room .
+1000.	shut down the air conditioner of sitting room .
+1001.	set the temperature of air conditioner of sitting room to x .
+1002.	turn the temperature of air conditioner of sitting room to x .
+1003.	turn on the smart light of sitting room .
+1004.	turn off the smart light of sitting room .
+1005.	open the smart light of sitting room .
+1006.	shut down the smart light of sitting room .
+1007.	set the brightness of the smart light of sitting room to x .
+1008.	turn the brightness of the smart light of sitting room to x .
+1009.	turn on the pm2.5 detector of sitting room .
+1010.	turn off the pm2.5 detector of sitting room .
+1011.	open the pm2.5 detector of sitting room .
+1012.	shut down the air quality monitor of sitting room .
+1013.	set the pm2.5 of the pm2.5 detector of sitting room to x .
+1014.	turn the pm2.5 of the pm2.5 detector of sitting room to x .
+1015.	turn on the air cleaner of sitting room .
+1016.	turn off the air cleaner of sitting room .
+1017.	open the air cleaner of sitting room .
+1018.	shut down the air cleaner of sitting room .
+1019.	set the pm2.5 of the air cleaner of sitting room to x .
+1020.	turn the pm2.5 of the air cleaner of sitting room to x .
+1021.	turn on the air conditioner of bedroom .
+1022.	turn off the air conditioner of bedroom .
+1023.	open the air conditioner of bedroom .
+1024.	shut down the air conditioner of bedroom .
+1025.	set the temperature of the air conditioner of bedroom to x .
+1026.	turn the temperature of the air conditioner of bedroom to x .
+1027.	turn up the smart light of bedroom .
+1028.	turn off the smart light of bedroom .
+1029.	open the smart light of bedroom .
+1030.	shut down the smart light of bedroom .
+1031.	set the brightness of the smart light of bedroom to x .
+1032.	turn the brightness of the smart light of bedroom to x .
+1033.	turn on the flower monitor of balcony .
+1034.	turn off the flower monitor of balcony .
+1035.	open the flower monitor of balcony .
+1036.	shut down the flower monitor of balcony .
+1037.	set the humidity of the flower monitor of balcony to x .
+1038.	turn the humidity of the flower monitor of balcony to x .
+1039.	turn up the water pump of balcony .
+1040.	turn off the water pump of balcony .
+1041.	open the water pump of balcony .
+1042.	shut down the water pump of balcony .
+1043.	set the humidity of the water pump of balcony to x .
+1044.	turn the humidity of the water pump of balcony to x .
+1045.	turn up the smart fan of sitting room .
+1046.	turn off the smart fan of sitting room .
+1047.	open the smart fan of sitting room .
