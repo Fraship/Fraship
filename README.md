@@ -20,10 +20,8 @@ Fraship has created 3 location instances (Ll), 12 context instances (Cl m, l is 
 ### 1.3  Concept Instances in the Knowledge Graph for Smart Home
 
 The constructed concept instances are listed in Table.
-<a href="https://sm.ms/image/NXKZHS7DP9rOdpf" target="_blank"><img src="https://i.loli.net/2021/04/19/NXKZHS7DP9rOdpf.png" ></a>
-
-<a href="https://sm.ms/image/p9c3oymKSGsEDkW" target="_blank"><img src="https://i.loli.net/2021/04/19/p9c3oymKSGsEDkW.png" ></a>
-
+<a href="https://sm.ms/image/ykOjlctn5QiGwsV" target="_blank"><img src="https://i.loli.net/2021/05/06/ykOjlctn5QiGwsV.png" ></a>
+<a href="https://sm.ms/image/tefuCOTRxPK7oq3" target="_blank"><img src="https://i.loli.net/2021/05/06/tefuCOTRxPK7oq3.png" ></a>
 
 
 
