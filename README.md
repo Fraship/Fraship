@@ -7,14 +7,12 @@
 
 
 
-<a href="https://sm.ms/image/a9k24uswTP8SrBn" target="_blank"><img src="https://i.loli.net/2021/04/19/a9k24uswTP8SrBn.png" ></a>
-
+<a href="https://sm.ms/image/kxMZQfN213bhnEF" target="_blank"><img src="https://i.loli.net/2021/05/07/kxMZQfN213bhnEF.png" ></a>
 ### 1.2  The runtime knowledge graph for smart home
 
 Fraship has created 3 location instances (Ll), 12 context instances (Cl m, l is the serial number of the location), 11 device instances (Dd) and 29 service instances (Sd n, d is the serial number of the device). Fraship further specifies in the configuration two users Alice and Ken whose instances are created (U1 and U2). Based on the basic knowledge of the smart device deployment, Fraship establish from beginning 54 Located in, 29 Provide, 9 Monitor, 8 Increase, 5 Reduce and 7 Assign relationships.
 
-<a href="https://sm.ms/image/q5ERfIASGzFLnbo" target="_blank"><img src="https://i.loli.net/2021/04/19/q5ERfIASGzFLnbo.png" ></a>
-
+<a href="https://sm.ms/image/GNECl3BqOV61inS" target="_blank"><img src="https://i.loli.net/2021/05/07/GNECl3BqOV61inS.png" ></a>
 
 
 ### 1.3  Concept Instances in the Knowledge Graph for Smart Home
