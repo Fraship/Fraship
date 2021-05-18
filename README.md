@@ -6,7 +6,6 @@
 The scenario includes three areas: living room, bedroom, and balcony. Smart devices are arranged in each area. The scenario includes four types of contexts: temperature, humidity, brightness, and PM 2.5. Smart devices provide services such as Monitor, Increase, Reduce, and Assign for different contexts. For example, air conditioners can monitor, increase, decrease, or assign the temperature. Air purifiers can provide services that decrease the PM 2.5.
 
 ![image](https://github.com/Fraship/Fraship/blob/main/Image/scenario.png)
-<a href="https://sm.ms/image/kxMZQfN213bhnEF" target="_blank"><img src="https://i.loli.net/2021/05/07/kxMZQfN213bhnEF.png" alt="scenario210426.png"></a>
 
 ### 1.2  The runtime knowledge graph for smart home
 
