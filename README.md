@@ -5,18 +5,18 @@
 
 The scenario includes three areas: living room, bedroom, and balcony. Smart devices are arranged in each area. The scenario includes four types of contexts: temperature, humidity, brightness, and PM 2.5. Smart devices provide services such as Monitor, Increase, Reduce, and Assign for different contexts. For example, air conditioners can monitor, increase, decrease, or assign the temperature. Air purifiers can provide services that decrease the PM 2.5.
 
-
-
 <a href="https://sm.ms/image/kxMZQfN213bhnEF" target="_blank"><img src="https://i.loli.net/2021/05/07/kxMZQfN213bhnEF.png" ></a>
 ### 1.2  The runtime knowledge graph for smart home
 
 Fraship created three location instances (Ll), 12 context instances (Cl_m, where l is the serial number of the location), 11 device instances (Dd), and 29 service instances (Sd_n, where d is the serial number of the device). Fraship further specifies two users, Alice and Ken, whose instances are created (U1 and U2). Based on the basic knowledge of smart device deployment, Fraship initially established 54 Located in, 29 Provide, 9 Monitor, 8 Increase, 5 Reduce, and 7 Assign relationships.
+
 <a href="https://sm.ms/image/GNECl3BqOV61inS" target="_blank"><img src="https://i.loli.net/2021/05/07/GNECl3BqOV61inS.png" ></a>
 
 
 ### 1.3  Concept Instances in the Knowledge Graph for Smart Home
 
 The constructed concept instances are listed in Table.
+
 <a href="https://sm.ms/image/ykOjlctn5QiGwsV" target="_blank"><img src="https://i.loli.net/2021/05/06/ykOjlctn5QiGwsV.png" ></a>
 <a href="https://sm.ms/image/tefuCOTRxPK7oq3" target="_blank"><img src="https://i.loli.net/2021/05/06/tefuCOTRxPK7oq3.png" ></a>
 
